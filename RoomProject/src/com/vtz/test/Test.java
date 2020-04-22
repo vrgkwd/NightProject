@@ -6,6 +6,7 @@ public class Test {
 
 		Utility u= new Utility();
 		System.out.println(u.getDate());
+		u.getLappyName();
 	}
 
 }
