@@ -8,6 +8,7 @@ public class Test {
 		System.out.println(u.getDate());
 		u.getLappyName();
 		u.m1();
+		u.m2();
 	}
 
 }
