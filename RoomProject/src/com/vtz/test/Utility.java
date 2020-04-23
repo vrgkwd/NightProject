@@ -11,4 +11,8 @@ public class Utility {
 	 public void getLappyName() {
 		 System.out.println("lappy name ==> SONY--VAIO");
 	 }
+	 
+	 public void m1() {
+		 System.out.println("from Utility m1() method");
+	 }
 }
